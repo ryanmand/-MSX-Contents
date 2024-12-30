@@ -1,7 +1,6 @@
 # Projeto de Coleta de Notícias
 
-Este projeto é uma aplicação em PHP que coleta notícias de uma API, armazena no banco de dados e as exibe por meio de uma interface simples.
-
+projeto php 
 ## Estrutura do Projeto
 
 ```plaintext
